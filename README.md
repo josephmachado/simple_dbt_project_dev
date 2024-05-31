@@ -1,6 +1,4 @@
-Repository for the following blogs
-
-1. [Uplevel dbt(data build tool) workflow](https://www.startdataengineering.com/post/uplevel-dbt-workflow/)
+Repository for the [Uplevel dbt(data build tool) workflow](https://www.startdataengineering.com/post/uplevel-dbt-workflow/) blog.
 
 # Setup
 

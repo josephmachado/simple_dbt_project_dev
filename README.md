@@ -1,7 +1,6 @@
 Repository for the following blogs
 
-1. [dbt(data build tool) Tutorial](https://www.startdataengineering.com/post/dbt-data-build-tool-tutorial/)
-2. [Uplevel dbt(data build tool) workflow](https://www.startdataengineering.com/post/uplevel-dbt-workflow/)
+1. [Uplevel dbt(data build tool) workflow](https://www.startdataengineering.com/post/uplevel-dbt-workflow/)
 
 # Setup
 
@@ -138,7 +137,7 @@ set search_path to 'your_name_warehouse';
 \q -- exit pgcli
 ```
 
-## Validate data before pushing to prod, with data-diff
+## Validate data before pushing to prod, with data-diff (Archived project)
 
 We can use data-diff to compare (column value based) datasets. This is especially helpful when you want to make sure that your changes did not in advertently change the granularity, alter values, etc. Let's see how we can compare data using data-diff.
 

@@ -175,8 +175,6 @@ just dev-run
 just dq-report # creates and opens a static HTML file which shows dq report on your browser
 ```
 
-add: image
-
 **Note**: There are more dbt tools & process improvements explained at https://www.startdataengineering.com/post/uplevel-dbt-workflow/
 
 ## Autorun linting & checks locally before opening a PR to save on CI costs
